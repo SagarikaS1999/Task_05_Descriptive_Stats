@@ -29,9 +29,6 @@ The dataset was converted into **CSV files** for easier analysis:
 - **Intermediate:** Goal contribution %, players under 5 goals, ground ball leaders
 - **Advanced:** Shooting accuracy, defensive impact, turnovers, improvement metrics
 
-Full prompt list and answers: [Task05_Prompts_and_Answers.md](prompts/Task05_Prompts_and_Answers.md)  
-Prompt log showing how questions were asked: [Task05_Prompt_Log.md](prompts/Task05_Prompt_Log.md)
-
 ---
 
 
