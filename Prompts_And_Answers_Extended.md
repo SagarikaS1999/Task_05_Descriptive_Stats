@@ -5,8 +5,7 @@
 **A:** Emma Tyrrell → 92 ÷ 22 = **4.18**
 
 **Q2:** Who are the top 5 players by offensive efficiency ((G+A)/Shots)?  
-**A:**  
-1. Emma Ward → 81 ÷ 90 = 0.900  
+**A:**  1. Emma Ward → 81 ÷ 90 = 0.900  
 2. Olivia Adamson → 83 ÷ 109 = 0.761  
 3. Emma Tyrrell → 92 ÷ 135 = 0.681  
 4. Natalie Smith → 54 ÷ 91 = 0.593  
@@ -21,6 +20,7 @@
 **A:** Wins ~17.25, Losses ~10.25 → Wins avg ~7 goals higher.
 
 **Q5:** Which month saw Syracuse score the most total goals, and how many did they score that month? 
+
 **A:** March (7 games, 119 goals).
 
 **Q6:** Which player had the largest scoring improvement in the second half of the season?  
@@ -35,6 +35,7 @@
 **A:** Emma Tyrrell.
 
 **Q9:** Which opponent had the best shot percentage against Syracuse’s defense?
+
 **A:** #1 Northwestern (~.720 SOG%, ~.667 goals/SOG).
 
 ---
